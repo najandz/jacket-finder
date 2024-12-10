@@ -3,7 +3,8 @@ export type JacketActivity = 'hiking' | 'skiing' | 'climbing' | 'urban' | 'runni
 export type JacketWeather = 'rain' | 'snow' | 'wind' | 'mild' | 'cold' | 'extreme-cold';
 export type JacketSize = 'XS' | 'S' | 'M' | 'L' | 'XL' | 'XXL';
 export type JacketColor = 'black' | 'brown' | 'navy' | 'olive' | 'beige' | 'gray';
-
+export type JacketStyle = ''
+export type JacketMaterial = ''
 export interface Jacket {
   id: string;
   name: string;
