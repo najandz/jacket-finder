@@ -1,5 +1,5 @@
 import { JacketActivity } from '@/types/jacket';
-import { LucideIcon, Mountain, Building2, Snowflake, TreePine, Running } from 'lucide-react';
+import { LucideIcon, Mountain, Building2, Snowflake, TreePine } from 'lucide-react';
 
 export interface ActivityOption {
   value: JacketActivity;
@@ -36,7 +36,7 @@ export const activities: ActivityOption[] = [
   {
     value: 'running',
     label: 'Running',
-    icon: Running,
+    icon: Building2,
     description: 'High-output cardio activities',
   },
   {
