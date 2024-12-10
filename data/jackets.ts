@@ -13,6 +13,8 @@ export const jackets: Jacket[] = [
     price: 899.99,
     imageUrl: 'https://images.unsplash.com/photo-1551028719-00167b16eac5',
     description: 'Premium insulated parka for extreme cold conditions.',
+    style: 'casual',
+    material: 'cotton'
   },
   {
     id: '2',
@@ -26,6 +28,8 @@ export const jackets: Jacket[] = [
     price: 599.99,
     imageUrl: 'https://images.unsplash.com/photo-1608063615781-e2ef8c73d114',
     description: 'Versatile waterproof shell for year-round protection.',
+    style: 'casual',
+    material: 'cotton'
   },
   {
     id: '3',
@@ -39,6 +43,8 @@ export const jackets: Jacket[] = [
     price: 299.99,
     imageUrl: 'https://images.unsplash.com/photo-1591047139829-d91aecb6caea',
     description: 'Lightweight jacket for high-output activities.',
+    style: 'casual',
+    material: 'cotton'
   },
   {
     id: '4',
@@ -52,6 +58,8 @@ export const jackets: Jacket[] = [
     price: 399.99,
     imageUrl: 'https://images.unsplash.com/photo-1542291026-7eec264c27ff',
     description: 'Compact shell jacket perfect for day hikes and city use.',
+    style: 'casual',
+    material: 'cotton'
   },
   {
     id: '5',
@@ -65,6 +73,8 @@ export const jackets: Jacket[] = [
     price: 699.99,
     imageUrl: 'https://images.unsplash.com/photo-1546484954-0affbdae24b0',
     description: 'Warm and durable jacket for winter adventures.',
+    style: 'casual',
+    material: 'cotton'
   },
   {
     id: '6',
@@ -78,6 +88,8 @@ export const jackets: Jacket[] = [
     price: 249.99,
     imageUrl: 'https://images.unsplash.com/photo-1518917852734-22b3b1a3c563',
     description: 'Ideal lightweight jacket for dynamic activities.',
+    style: 'casual',
+    material: 'cotton'
   },
   {
     id: '7',
@@ -91,6 +103,8 @@ export const jackets: Jacket[] = [
     price: 749.99,
     imageUrl: 'https://images.unsplash.com/photo-1578985545062-69928b1d9587',
     description: 'Advanced shell designed for alpine and snowy conditions.',
+    style: 'casual',
+    material: 'cotton'
   },
   // Add more variations below
   {
@@ -105,6 +119,8 @@ export const jackets: Jacket[] = [
     price: 199.99,
     imageUrl: 'https://images.unsplash.com/photo-1593642532973-d31b6557fa68',
     description: 'Stylish jacket for casual hikes and urban explorations.',
+    style: 'casual',
+    material: 'cotton'
   },
   {
     id: '9',
@@ -118,6 +134,8 @@ export const jackets: Jacket[] = [
     price: 899.99,
     imageUrl: 'https://images.unsplash.com/photo-1516187675347-e067e8f0d733',
     description: 'Premium insulated jacket for sub-zero adventures.',
+    style: 'casual',
+    material: 'cotton'
   },
   // More entries would follow to reach a total of 33.
 ];

@@ -9,7 +9,6 @@ import {
   Building2,
   Snowflake,
   TreePine,
-  Running,
 } from 'lucide-react';
 
 interface ActivityOption {
@@ -47,7 +46,7 @@ const activities: ActivityOption[] = [
   {
     value: 'running',
     label: 'Running',
-    icon: <Running className="h-8 w-8" />,
+    icon: <Building2 className="h-8 w-8" />,
     description: 'High-output cardio activities',
   },
   {
